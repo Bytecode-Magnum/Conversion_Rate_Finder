@@ -3,7 +3,6 @@ import pandas as pd
 import requests
 import os
 from datetime import datetime
-from dotenv import load_dotenv
 from io import BytesIO
 
 load_dotenv()
