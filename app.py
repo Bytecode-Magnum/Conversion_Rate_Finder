@@ -8,7 +8,7 @@ from io import BytesIO
 
 load_dotenv()
 
-api_key = os.getenv('api_key')
+api_key = '2340d502e8449ded85203e99c308ddff'
 
 
 def to_excel(dataframe):
